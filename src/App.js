@@ -3,6 +3,7 @@ import './App.css';
 // import React from 'react';
 // import ReactDOM from "react-dom"
 
+// C O M P O N E N T 
 function App() {
   return (
     <div className="App">
@@ -22,4 +23,5 @@ function App() {
   );
 }
 
+// E N D   O F   C O M P O N E N T 
 export default App;
