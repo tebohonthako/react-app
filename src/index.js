@@ -10,6 +10,21 @@ root.render(
     <App />
   </React.StrictMode>
 );
+const page = (
+  <div>
+    <img src="./public/logo192.png" width="40px"/>
+    <ul>
+      <li>Thing 1</li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+
+  </div>
+)
+ReactDOM.render(page. document.getElementById("root"))
+
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
